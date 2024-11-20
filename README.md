@@ -1,6 +1,6 @@
 # Creating an application with a Node.js code sample
 
-**TEST FOR PUSH EVENT**
+**TEST FOR PUSH EVENT EXPECT PASS**
 
 **Note:** The Node.js code sample uses the **3001** HTTP port.
 
